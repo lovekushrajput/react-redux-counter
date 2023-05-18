@@ -6,7 +6,6 @@ import {
 } from '../store/action';
 
 function Counter(props) {
-
     return (
         <>
             <h2>{props.value}</h2>
